@@ -1,0 +1,29 @@
+skill_name,category
+Python,Programming
+Java,Programming
+C++,Programming
+SQL,Database
+PostgreSQL,Database
+MongoDB,Database
+React,Frontend
+Next.js,Frontend
+HTML,Frontend
+CSS,Frontend
+JavaScript,Frontend
+Node.js,Backend
+FastAPI,Backend
+Django,Backend
+Flask,Backend
+AWS,Cloud
+Docker,DevOps
+Kubernetes,DevOps
+TensorFlow,AI
+PyTorch,AI
+Machine Learning,AI
+Power BI,Data
+Excel,Data
+DSA,Core CS
+DBMS,Core CS
+OOPS,Core CS
+Git,Tools
+Linux,Tools
