@@ -1,0 +1,36 @@
+{
+  "Frontend Developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "tailwind",
+    "git"
+  ],
+
+  "Backend Developer": [
+    "python",
+    "fastapi",
+    "mongodb",
+    "sql",
+    "docker"
+  ],
+
+  "AI Engineer": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "pytorch",
+    "nlp"
+  ],
+
+  "Full Stack Developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "node.js",
+    "mongodb",
+    "express"
+  ]
+}
