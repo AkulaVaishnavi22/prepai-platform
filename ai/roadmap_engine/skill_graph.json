@@ -1,0 +1,12 @@
+{
+  "react": ["javascript", "html", "css"],
+  "tailwind": ["css"],
+  "fastapi": ["python"],
+  "machine learning": ["python"],
+  "deep learning": ["machine learning"],
+  "nlp": ["python", "machine learning"],
+  "pytorch": ["python", "machine learning"],
+  "node.js": ["javascript"],
+  "express": ["javascript", "node.js"],
+  "mongodb": ["database basics"]
+}
